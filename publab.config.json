@@ -1,0 +1,24 @@
+{
+  "id": "5fa7759a-939d-4151-9eaf-b59433b597ba",
+  "collaborators": [
+    {
+      "id": "ddb4329b-9423-43a1-afaf-713524dac81e",
+      "role": "developer",
+      "githubUsername": "LostInStatic"
+    },
+    {
+      "id": "85d64420-729b-4a93-89a9-ec49841cfb44",
+      "githubUsername": "tempfortests",
+      "role": "editor"
+    }
+  ],
+  "description": "",
+  "name": "test 888",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": false,
+  "imagePath": "cover.svg",
+  "creationDate": 1662163482829,
+  "tags": [],
+  "snippets": []
+}
