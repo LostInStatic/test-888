@@ -7,7 +7,7 @@
   Publication-as-a-Website Basic Starter
 </h1>
 
-Create your next online publication with this PaaW boilerplate. It ships with a Gatsby configuration that supports single language publications.
+Create your next online publication with this PaaW boilerplate. It ships with a Gatsby configuration that supports single language publications.dadadadada
 
 👀 [See it in action!](https://vnlab-lodz.github.io/gatsby-starter-paaw-basic/)
 
