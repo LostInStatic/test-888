@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Publication-as-a-Website Basic Starterfafafafa
+  Publication-as-a-Website Basic Starterfafafafadadadadad
 </h1>
 
 Create your next online publication with this PaaW boilerplate. It ships with a Gatsby configuration that supports single language publications.dadadadada
